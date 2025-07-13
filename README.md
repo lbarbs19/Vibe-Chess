@@ -1,5 +1,3 @@
-# Vibe-Chess
-
 # VibeChess
 
 A real-time multiplayer chess platform featuring collaborative gameplay modes designed for streamers and content creators. Built with React/TypeScript frontend and ASP.NET Core backend with SignalR for real-time communication.
